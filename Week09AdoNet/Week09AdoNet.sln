@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetEx", "AdoNetEx\AdoNetEx.csproj", "{D6CF41A0-180A-4777-B0EA-D3321F931B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6CF41A0-180A-4777-B0EA-D3321F931B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CF41A0-180A-4777-B0EA-D3321F931B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CF41A0-180A-4777-B0EA-D3321F931B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CF41A0-180A-4777-B0EA-D3321F931B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {638647BB-1C0E-46E9-826E-7B55F82C2355}
+	EndGlobalSection
+EndGlobal
